@@ -30,7 +30,9 @@ https://github.com/d3/d3/wiki/Gallery
 
 ### 一些喜欢的图表形式
 
-[Choropleth等值线图](https://beta.observablehq.com/@mbostock/d3-choroplet
+[Choropleth等值线图](https://beta.observablehq.com/@mbostock/d3-choroplet)
+
 [Echarts 动态地图](http://www.echartsjs.com/examples/editor.html?c=lines3d-flights-gl&gl=1&theme=light)
+
 ### 新闻
 [卫报 移民能使来自穷国家的人生活更好吗](https://www.theguardian.com/global-development/2013/sep/13/migration-improve-life-people-poor-countries)
