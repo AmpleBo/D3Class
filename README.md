@@ -16,4 +16,14 @@
 
 4.2长短期移民者的幸福指数比较
 
-## 2.0
+## 2.0 Resources
+
+### CSDN 世界幸福指数报告怎么做的？
+https://blog.csdn.net/zw0Pi8G5C1x/article/details/84949204
+
+### World Happiness Report
+http://worldhappiness.report/ed/2018/
+
+### D3 Gallery
+https://www.d3-graph-gallery.com/streamgraph.html
+https://github.com/d3/d3/wiki/Gallery
