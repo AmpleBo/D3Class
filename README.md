@@ -4,7 +4,7 @@
 ## 1.0 Proposal
 0. 幸福指数的计算方式
 
-1. 世界移民的迁徙情况（世界地图动态）
+1. 世界移民的迁徙情况 世界地图动态+[Chord图](https://bl.ocks.org/curran/8c5bb1e0dd8ea98695d28c8a0ccfc533) 
 
 2. AP2 外国人口的幸福指数 国家排名migrants by country ascending  地图+泡泡
 
